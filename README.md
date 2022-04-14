@@ -2,6 +2,7 @@
 
 ![jammin.gif](img/jammin.gif)
 
+* 소스코드는 보안상 공개하지 않았습니다.
 # 🎮 서비스 소개
 
 
